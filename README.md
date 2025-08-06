@@ -1,5 +1,4 @@
 # -Automated-QR-and-Barcode-Identification
-Here’s your **GitHub‑ready `README.md`** for the **QR and Barcode Detection** project.
 
 ---
 
@@ -24,30 +23,24 @@ The app includes a simple **HTML frontend** and a **Flask backend** for processi
 ## 📂 Project Structure
 ```
 
-Qr and Bar detection/
-│── documentation/
-│   └── Siri.pdf               # Project documentation
-│── ppt/
-│   ├── REVIEW- 2.pdf          # Review presentation
-│   └── Review--1.pdf
-│── project/
-│   ├── app.py                 # Main Flask application
-│   ├── MyDataFile.text        # Data storage file
-│   ├── tempCodeRunnerFile.py  # Temporary test file
-│   ├── QRCODES/               # Sample QR/Barcode images
-│   │   ├── Accenture.png
-│   │   ├── Amazon.png
-│   │   ├── Apple.png
-│   │   ├── CapeGemini.png
-│   │   ├── Cognizent.png
-│   │   ├── Google.png
-│   │   ├── IBM.png
-│   │   ├── Microsoft.png
-│   │   └── Tech Mahindra.png
-│   ├── templates/
-│   │   ├── index.html         # Home page
-│   │   ├── model.html         # Detection results page
-│   │   └── team.html          # Team info page
+project/
+│── app.py                 # Main Flask application
+│── MyDataFile.text        # Data storage file
+│── tempCodeRunnerFile.py  # Temporary test file
+│── QRCODES/               # Sample QR/Barcode images
+│   ├── Accenture.png
+│   ├── Amazon.png
+│   ├── Apple.png
+│   ├── CapeGemini.png
+│   ├── Cognizent.png
+│   ├── Google.png
+│   ├── IBM.png
+│   ├── Microsoft.png
+│   └── Tech Mahindra.png
+│── templates/
+│   ├── index.html         # Home page
+│   ├── model.html         # Detection results page
+│   └── team.html          # Team info page
 
 ````
 
@@ -57,7 +50,7 @@ Qr and Bar detection/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/qr-bar-detection.git
+git clone https://github.com/Siri-Kodiripaka/-Automated-QR-and-Barcode-Identification
 cd qr-bar-detection/project
 ````
 
